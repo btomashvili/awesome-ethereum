@@ -19,7 +19,7 @@ Awesome Ethereum & Dapps Resources
 - [Read the full user guide](https://ethereum.gitbooks.io/frontier-guide/content/)
 - [Meetups](http://www.meetup.com/topics/ethereum/)
 - [IRC, Skype & Gitter channels ](https://forum.ethereum.org/discussion/1495/chat-with-the-ethereum-community-on-skype-irc-and-gitter)
-- [Ethstats](https://ethstats.net/) 
+- [Ethstats](https://ethstats.net/)
 - [Ethereum Price](http://ethereumprice.org/)
 
 
@@ -28,7 +28,7 @@ Awesome Ethereum & Dapps Resources
 - [BBC explains Ethereum](https://www.youtube.com/watch?v=0X33lgMbvdI)
 - [Devcon2 2016](https://www.youtube.com/playlist?list=PLaM7G4Llrb7xqzgOwbvNv63_KM7VH84Rd)
 - [Devcon1 2015](https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk)
-- [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)  
+- [Devcon0 2014](https://www.youtube.com/watch?v=_BvvUlKDqp0&list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS)
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
@@ -37,10 +37,11 @@ Awesome Ethereum & Dapps Resources
 - [Build apps using Meteor and the ethereum tools](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor)
 - [Learn Solidity, the main language for smart contracts](https://solidity.readthedocs.org/en/latest/)
 - [Programming Community Curated Resources for learning Solidity](https://hackr.io/tutorials/learn-solidity)
+- [Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)
 
 #### Blogs & Article threads
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
-- [Ethereum : Rise of the World Computer , HN thread](https://news.ycombinator.com/item?id=11181149) 
+- [Ethereum : Rise of the World Computer , HN thread](https://news.ycombinator.com/item?id=11181149)
 - [SkyNet is the future](http://theshapeofthings.org/2016/01/18/skynetisthefuture/)
 - [The End of Corporations – Decentralized Organization ](http://theshapeofthings.org/2016/01/18/field-interview-wmatan-field-ethereum-devcon-1/)
 - [The War for Technology and the End of Democracy](http://theshapeofthings.org/2016/02/01/war-technology-and-the-end-of-democracy/)
@@ -52,17 +53,17 @@ Awesome Ethereum & Dapps Resources
 - [WeiFund : A decentralized, open-source, crowdfunding platform built on Ethereum.](https://github.com/weifund)
 - [Etherex : EtherEx is an open source, fully transparent, next generation decentralized exchange built on Ethereum](https://github.com/etherex/etherex)
 - [Augur : Decentralized, open-source platform for prediction markets.](https://github.com/AugurProject)
-- [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)  
+- [Etherwall : GUI desktop wallet for Ethereum](https://github.com/almindor/etherwall)
 - [Embark : Framework for Ethereum DApps](https://github.com/iurimatias/embark-framework)
 - [Truffle : A development framework for Ethereum](https://github.com/ConsenSys/truffle)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
-- [Solether : Autonomous Electrical Energy Entities - Prototype](https://github.com/makevoid/solether)  
-- [Profeth : A smart contracts ecosystem for a resource-based digital economy](https://github.com/profeth/)  
-- [LETH : first hybrid mobile app to manage an Ethereum wallet](https://github.com/inzhoop-co/LETH)  
-- [Syng-im : Open source mobile ethereum client](https://github.com/syng-im)  
-- [Btcrelay : A bridge between the Bitcoin blockchain & Ethereum smart contracts](https://github.com/ethereum/btcrelay)  
-- [Verifiable off-chain computation for ethereum contracts](https://github.com/pipermerriam/ethereum-computation-market)  
-- [Etherapis : Micropayment platform for generic API calls](https://github.com/etherapis/etherapis)  
+- [Solether : Autonomous Electrical Energy Entities - Prototype](https://github.com/makevoid/solether)
+- [Profeth : A smart contracts ecosystem for a resource-based digital economy](https://github.com/profeth/)
+- [LETH : first hybrid mobile app to manage an Ethereum wallet](https://github.com/inzhoop-co/LETH)
+- [Syng-im : Open source mobile ethereum client](https://github.com/syng-im)
+- [Btcrelay : A bridge between the Bitcoin blockchain & Ethereum smart contracts](https://github.com/ethereum/btcrelay)
+- [Verifiable off-chain computation for ethereum contracts](https://github.com/pipermerriam/ethereum-computation-market)
+- [Etherapis : Micropayment platform for generic API calls](https://github.com/etherapis/etherapis)
 - [Etherflip : Ether gambling Dapp game / eth casino](https://github.com/jambtt/Etherflip)
 - [EthHypeDns : Resolve Hyperboria/CJDNS ipv6 addresses via etherid.org contact](https://github.com/slothbag/EthHypeDns)
 - [Decentralized Autonomous Ventures (DAVs)](https://github.com/VentureEquityExchange/)
@@ -102,7 +103,7 @@ Awesome Ethereum & Dapps Resources
 - [Thousand Ether Homepage](https://thousandetherhomepage.com)
 
 
-#### Related Resources 
+#### Related Resources
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 
