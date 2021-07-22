@@ -53,6 +53,7 @@ Awesome Ethereum & Dapps Resources
 - [One Click Dapp: FOSS tool for creating dapp frontends from an ABI.](https://oneclickdapp.com)
 - [Etherflow: A FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser.](https://etherflow.quiknode.io/)
 - [ZMOK: Publicly accessible Web3 JSON/RPC provider URL's.](https://zmok.io/)
+- [Covalent: A unified API bringing visibility to billions of blockchain data points.](https://zmok.io/)
 
 #### Where do I start?
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
